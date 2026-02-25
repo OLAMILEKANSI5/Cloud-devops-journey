@@ -1,6 +1,6 @@
 # Cloud-devops-journey
 My Journey to becoming a Cloud/Devops Engineer: Documented daily with hands-on labs and projects
-cat > README.md << 'EOF'
+
 # ☁️ Cloud DevOps Journey
 
 > **Goal:** Become a job-ready Cloud/DevOps Engineer 
